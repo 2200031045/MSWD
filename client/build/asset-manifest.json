@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mern/static/css/main.fa0b7238.css",
+    "main.js": "/mern/static/js/main.bff3058b.js",
+    "static/js/787.aff5bab6.chunk.js": "/mern/static/js/787.aff5bab6.chunk.js",
+    "static/media/service.gif": "/mern/static/media/service.f89ebfc3ee238ce014aa.gif",
+    "static/media/poojitha.png": "/mern/static/media/poojitha.c7894920e8699df1c5f2.png",
+    "static/media/navya.png": "/mern/static/media/navya.61e8361163a978f1a80d.png",
+    "static/media/malleeswari.png": "/mern/static/media/malleeswari.16bc622186775eab3c5c.png",
+    "static/media/bedroom.gif": "/mern/static/media/bedroom.6b9c24cab4d56547f0c5.gif",
+    "static/media/wifi.gif": "/mern/static/media/wifi.1acb46d100e94bcd43e4.gif",
+    "static/media/insta.webp": "/mern/static/media/insta.1d6d0317700c4f0c95b7.webp",
+    "static/media/user.png": "/mern/static/media/user.0d14c6999b4a5c8e86a7.png",
+    "index.html": "/mern/index.html",
+    "main.fa0b7238.css.map": "/mern/static/css/main.fa0b7238.css.map",
+    "main.bff3058b.js.map": "/mern/static/js/main.bff3058b.js.map",
+    "787.aff5bab6.chunk.js.map": "/mern/static/js/787.aff5bab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa0b7238.css",
+    "static/js/main.bff3058b.js"
+  ]
+}

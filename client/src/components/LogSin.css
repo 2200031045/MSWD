@@ -1,0 +1,60 @@
+.navigation {
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    &:hover{
+      cursor: pointer;
+    }
+   
+  }
+  
+  nav {
+    display: flex;
+  }
+  .unlist{
+    list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+     padding-left: 900px;
+    
+  }
+  
+  
+  
+  li {
+    margin-left: 10px; /* Add margin on the left for spacing between links */
+    margin-right: 20px;
+    font-size: 20px;
+  }
+  
+  /* Apply styles to the Link component */
+  li > a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Change text color on hover */
+  li > a:hover {
+    color: gray;
+  }
+  .image{
+    padding:0px;
+    margin:0px;
+    height:8vh;
+    &:hover{
+      cursor: pointer;
+      opacity: 0.5;
+    }
+  }
+  .image,.navigation{
+    display:flex;
+  
+  }
+  .nav-container{
+   display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  background-color:black; 
+  }

@@ -1,0 +1,43 @@
+/* .home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQda7xDiHUIyNWNiBGH3Eth0ci-K9WNJCT0ag&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+  
+  .card-container {
+    display: flex;
+    justify-content: space-around;
+    width: 600px; /* Adjust the width as needed */
+  }
+  
+  .card {
+    background-color:#EAE6F4;
+    padding: 70px;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .card h2 {
+    margin-bottom: 10px;
+  }
+  
+  .card a {
+    color: black;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .card a:hover {
+    background-color: #0056b3;
+  }
+  
